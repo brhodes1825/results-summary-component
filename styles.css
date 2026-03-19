@@ -38,8 +38,8 @@ body {
 }
 
 .card-container {
-  width: 26rem;
-  height: 42rem;
+  width: 24rem;
+  height: 52rem;
   margin: 0 auto;
   border: 1px solid white;
   background-color: white;
@@ -51,13 +51,13 @@ body {
   display: flex;
   flex-direction: column;
   margin: auto auto;
-  height: 20rem;
+  height: 24rem;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
   z-index: 3;
 }
 
 .card-lower {
-  height: 22rem;
+  height: 2rem;
   z-index: 2;
   }
