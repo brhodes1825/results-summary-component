@@ -57,7 +57,7 @@ body {
 }
 
 .card-lower {
-  background: var(--white), white;
+  background-color: var(--white), white;
   height: 40rem;
   z-index: 2;
   }
