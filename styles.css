@@ -41,15 +41,14 @@ body {
   width: 26rem;
   height: 42rem;
   margin: 0 auto;
-  border: 1px solid black;
+  border: 1px solid white;
 }
 
 .card-upper {
   background: linear-gradient(to bottom, hsl(252, 100%, 67%) 0%, hsl(241, 81%, 54%) 100%);
   display: flex;
   flex-direction: column;
-  align-content: center;
-  justify-content: center;
+  margin: auto auto;
   height: 28.2rem;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
@@ -59,5 +58,5 @@ body {
 .card-lower {
   background: var(--white), white;
   height: 40rem;
-  z-index: 1
+  z-index: 1;
   }
