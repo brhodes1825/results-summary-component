@@ -37,5 +37,11 @@ body {
 }
 
 .card-container {
-  
+  width: 38vw;
+  height: 65vh;
+  background: var(--white);
+}
+
+.card-upper {
+  background: linear-gradient(to bottom, hsl(252, 100%, 67%) 0%, sl(241, 81%, 54%) 100%);
 }
