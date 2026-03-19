@@ -31,7 +31,7 @@
 }
 
 body {
-  background-color: var(--dark-gray-blue);
+  background-color: hsl(224, 30%, 27%);
   width: 100vw;
   height: 100%;
   margin: 0 auto;
