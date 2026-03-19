@@ -40,7 +40,6 @@ body {
 .card-container {
   width: 26rem;
   height: 42rem;
-  background: var(--white);
   margin: 0 auto;
   border: 1px solid black;
 }
@@ -56,5 +55,5 @@ body {
 }
 
 .card-lower {
-    background: var(--white);
+    background: var(--white), white;
   }
