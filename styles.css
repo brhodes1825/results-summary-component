@@ -53,8 +53,11 @@ body {
   height: 28.2rem;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
+  z-index: 2;
 }
 
 .card-lower {
-    background: var(--white), white;
+  background: var(--white), white;
+  height: 40rem;
+  z-index: 1
   }
