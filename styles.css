@@ -149,3 +149,7 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+button {
+  padding: 1rem 7rem;
+}
