@@ -50,8 +50,8 @@ body {
 }
 
 .card-container {
-  width: 38rem;
-  height: 76rem;
+  width: 48rem;
+  height: 78rem;
   background-color: white;
   z-index: 1;
   font-size: 1.5rem;
@@ -64,7 +64,7 @@ body {
   align-items: center;
   justify-content: center;
   color: var(--light-lavender);
-  height: 24rem;
+  height: 28rem;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
   z-index: 3;
