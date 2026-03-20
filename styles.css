@@ -48,8 +48,8 @@ body {
 }
 
 .card-container {
-  width: 48rem;
-  height: 78rem;
+  width: 44rem;
+  height: 79rem;
   background-color: white;
   z-index: 1;
 }
@@ -61,7 +61,7 @@ body {
   align-items: center;
   justify-content: center;
   color: var(--light-lavender);
-  height: 28rem;
+  height: 32rem;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
   z-index: 3;
