@@ -130,8 +130,7 @@ body {
 }
 
 .red-bg {
-  display: flex;
-  flex-direction: row;
+  display: inline;
 }
 
 .bold {
