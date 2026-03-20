@@ -152,4 +152,6 @@ body {
 
 button {
   padding: 1rem 7rem;
+  background-color: var(--cobalt-blue);
+  color: var(--white);
 }
