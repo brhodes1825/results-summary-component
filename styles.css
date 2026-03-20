@@ -38,8 +38,8 @@ body {
 }
 
 .card-container {
-  width: 45rem;
-  height: 75rem;
+  width: 35rem;
+  height: 60rem;
   margin: 0 auto;
   border: 1px solid white;
   background-color: white;
@@ -60,6 +60,6 @@ body {
 }
 
 .card-lower {
-  height: 42rem;
+  height: 60rem;
   z-index: 2;
   }
