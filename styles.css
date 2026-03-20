@@ -96,3 +96,11 @@ body {
 .lavender-text {
   color: var(--light-lavender);
 }
+
+.white-text {
+  color: var(--white);
+}
+
+.bold {
+  font-weight: 700;
+}
