@@ -140,8 +140,8 @@ body {
   text-align: justify;
 }
 
-span {
-  gap: 4rem;
+.left-align {
+  text-align: left;
 }
 
 tr {
