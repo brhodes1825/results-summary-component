@@ -127,6 +127,10 @@ body {
   color: var(--white);
 }
 
+.red-background {
+  background-color: rgba(var(--light-red), 0.3);
+}
+
 .bold {
   font-weight: 700;
 }
@@ -139,3 +143,5 @@ body {
 span {
   gap: 4rem;
 }
+
+
