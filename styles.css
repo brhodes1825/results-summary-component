@@ -144,7 +144,7 @@ body {
 
 button {
   padding: 1.2rem 6.5rem;
-  border-radius: 1rem;
+  border-radius: 3rem;
   background-color: var(--dark-gray-blue);
   color: var(--white);
 }
