@@ -92,3 +92,7 @@ body {
 .large-font {
  font-size: 3rem;
 }
+
+.lavender-text {
+  color: var(--light-lavender);
+}
