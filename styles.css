@@ -66,13 +66,13 @@ body {
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
   z-index: 3;
-  padding: 3rem;
+  padding: 2rem;
 }
 
 .card-lower {
   height: 30rem;
   z-index: 2;
-  padding: 3rem;
+  padding: 2rem;
   }
 
 .score-results-round {
