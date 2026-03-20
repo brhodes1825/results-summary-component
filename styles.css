@@ -72,3 +72,23 @@ body {
   height: 30rem;
   z-index: 2;
   }
+
+.score-results-round {
+ background: linear-gradient(to bottom, hsla(241, 72%, 46%, 0) 0%, hsla(256, 72%, 46%, 1) 100%);
+ border-radius: 50%;
+ display: flex;
+ align-items: center;
+ justify-content: center;  
+}
+
+.regular-font {
+ font-size: 2rem;
+}
+
+.medium-font {
+ font-size: 2.5rem;
+}
+
+.large-font {
+ font-size: 3rem;
+}
