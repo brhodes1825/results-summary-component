@@ -132,12 +132,12 @@ body {
 }
 
 .bold {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .double-line {
   padding: 2rem;
-  display: block;
+  text-align: justify;
 }
 
 span {
