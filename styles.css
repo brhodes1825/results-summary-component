@@ -45,6 +45,7 @@ body {
   background-color: black;
   display: flex;
   justify-content: center;
+  margin: auto auto;
 }
 
 .card-container {
@@ -73,6 +74,10 @@ body {
   z-index: 2;
   padding: 3rem;
   }
+
+span {
+  gap: 4rem;
+}
 
 .score-results-round {
   width: 12rem;
@@ -133,5 +138,4 @@ body {
 .double-line {
   padding: 2rem;
   display: block;
-  
 }
