@@ -88,6 +88,15 @@ body {
   margin: 1.5rem;
 }
 
+.bold {
+  font-weight: 600;
+}
+
+.double-line {
+  padding: 3.5rem;
+  text-align: center;
+}
+
 .regular-font {
   font-size: 1.65rem;
   margin: 1rem 1rem;
@@ -107,12 +116,21 @@ body {
   color: var(--light-lavender);
 }
 
-.red-text {
-  color: var(--light-red);
-}
-
 .black-text {
   color: black;
+}
+
+.white-text {
+  color: var(--white);
+}
+
+.red-bg {
+  display: inline;
+  background-color: var(--light-red);
+}
+
+.red-text {
+  color: var(--light-red);
 }
 
 .yellow-text {
@@ -125,27 +143,6 @@ body {
 
 .cobalt-text {
   color: var(--cobalt-blue);
-}
-
-.white-text {
-  color: var(--white);
-}
-
-.red-bg {
-  display: inline;
-}
-
-.bold {
-  font-weight: 600;
-}
-
-.double-line {
-  padding: 3.5rem;
-  text-align: center;
-}
-
-.left-align {
-  text-align: left;
 }
 
 button {
