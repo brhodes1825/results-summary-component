@@ -51,7 +51,7 @@ body {
 .card-container {
   width: 38rem;
   height: 70rem;
-  position: absolute;
+  position: relative;
   background-color: white;
   z-index: 1;
   font-size: 1.5rem;
@@ -64,6 +64,7 @@ body {
   align-items: center;
   justify-content: center;
   margin: auto auto;
+  color: 
   height: 24rem;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
