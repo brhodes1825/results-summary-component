@@ -127,8 +127,9 @@ body {
   color: var(--white);
 }
 
-.red-background {
+.red-bg {
   background-color: rgba(var(--light-red), 0.3);
+  display: flex;
 }
 
 .bold {
