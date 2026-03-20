@@ -102,6 +102,26 @@ body {
   color: var(--light-lavender);
 }
 
+.red-text {
+  color: var(--light-red);
+}
+
+.black-text {
+  color: black;
+}
+
+.yellow-text {
+  color: var(--orangey-yellow);
+}
+
+.green-text {
+  color: var(--green-teal);
+}
+
+.cobalt-text {
+  color: var(--cobalt-blue);
+}
+
 .white-text {
   color: var(--white);
 }
