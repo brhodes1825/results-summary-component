@@ -89,15 +89,18 @@ body {
 }
 
 .regular-font {
- font-size: 1.65rem;
+  font-size: 1.65rem;
+  margin: 1rem 1rem;
 }
 
 .medium-font {
- font-size: 2.5rem;
+  font-size: 2.5rem;
+  margin: 1rem 1rem;
 }
 
 .large-font {
  font-size: 5.5rem;
+  margin: 1rem 1rem;
 }
 
 .lavender-text {
