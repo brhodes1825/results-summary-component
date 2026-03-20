@@ -80,8 +80,8 @@ span {
 }
 
 .score-results-round {
-  width: 12rem;
-  height: 12rem;
+  width: 16rem;
+  height: 16rem;
   background: linear-gradient(to bottom, hsla(256, 72%, 46%, 1) 0%, hsla(241, 72%, 46%, 0) 100%);
   border-radius: 50%;
   display: flex;
@@ -92,11 +92,11 @@ span {
 }
 
 .regular-font {
- font-size: 1.5rem;
+ font-size: 1.75rem;
 }
 
 .medium-font {
- font-size: 2.3rem;
+ font-size: 2.5rem;
 }
 
 .large-font {
