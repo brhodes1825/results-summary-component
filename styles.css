@@ -52,7 +52,6 @@ body {
   height: 78rem;
   background-color: white;
   z-index: 1;
-  padding: 3rem;
 }
 
 .card-upper {
@@ -66,16 +65,18 @@ body {
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
   z-index: 3;
+  padding: 3rem;
 }
 
 .card-lower {
   height: 30rem;
   z-index: 2;
+  padding: 3rem;
   }
 
 .score-results-round {
-  width: 7rem;
-  height: 7rem;
+  width: 8rem;
+  height: 8rem;
   background: linear-gradient(to bottom, hsla(256, 72%, 46%, 1) 0%, hsla(241, 72%, 46%, 0) 100%);
   border-radius: 50%;
   display: flex;
@@ -106,4 +107,9 @@ body {
 
 .bold {
   font-weight: 700;
+}
+
+.double-line {
+  padding: 2rem;
+  display: block;
 }
