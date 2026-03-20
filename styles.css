@@ -40,19 +40,18 @@ html {
 }
 
 body {
-  background-color: black;
   width: 100vw;
   height: 100vh;
+  background-color: black;
   display: flex;
   align-items: center;
   justify-content: center;
-  scroll: none;
 }
 
 .card-container {
   width: 38rem;
-  height: 65rem;
-  border: 1px solid white;
+  height: 70rem;
+  position: absolute;
   background-color: white;
   z-index: 1;
   font-size: 1.5rem;
