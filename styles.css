@@ -144,3 +144,6 @@ body {
   text-align: left;
 }
 
+.table {
+  display: flex;
+}
