@@ -44,7 +44,7 @@ body {
   height: 100vh;
   background-color: black;
   display: flex;
-  align-items: center;
+  justify-content: center;
 }
 
 .card-container {
@@ -52,6 +52,7 @@ body {
   height: 78rem;
   background-color: white;
   z-index: 1;
+  padding: 3rem;
 }
 
 .card-upper {
