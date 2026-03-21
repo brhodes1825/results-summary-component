@@ -91,7 +91,7 @@ body {
 }
 
 .card-results .bold {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 800;
   color: var(--white);
   margin-top: 1rem;
