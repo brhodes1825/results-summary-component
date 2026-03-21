@@ -128,9 +128,9 @@ body {
   gap: .5rem;
 }
 
-.badge img {
+/* .badge img {
   padding: 1rem;
-}
+} */
 
 .row {
   display: flex;
