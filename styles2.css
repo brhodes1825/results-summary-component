@@ -73,7 +73,7 @@ div .round {
   width: 13rem;
   height: 13rem;
   border-radius: 50%;
-  background-color: linear-gradient(to bottom, hsla(256, 72%, 46%, 1) 0%, hsla(241, 72%, 46%, 0) 100%;
+  background-color: linear-gradient(to bottom, hsla(256, 72%, 46%, 1) 0%, hsla(241, 72%, 46%, 0) 100%);
   display: flex;
   justify-content: center;
   flex-direction: column;
