@@ -192,7 +192,7 @@ body {
   background: linear-gradient(to bottom, hsl(252, 100%, 67%) 0%, hsl(241, 81%, 54%) 100%);
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 800px) {
   body{
     align-items: flex-start;
     background-color: var(--white);
