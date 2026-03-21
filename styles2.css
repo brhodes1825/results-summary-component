@@ -191,3 +191,31 @@ body {
 .btn:hover {
   background: linear-gradient(to bottom, hsl(252, 100%, 67%) 0%, hsl(241, 81%, 54%) 100%);
 }
+
+@media screen and (max-width:650px) {
+  body{
+    align-items: flex-start;
+    background-color: var(--white);
+  }
+
+  .card {
+    box-shadow: none;
+  }
+
+  .card-container {
+    flex-direction: column;
+  }
+
+  .card-results {
+    border-radius: 0 0 1rem 1rem;
+    width: 100%;
+  }
+
+  .card-results .info {
+    width: 15.625rem;
+  }
+
+  .card-summary {
+    width: 100%;
+  }
+}
