@@ -123,6 +123,13 @@ body {
 
 .badge {
   display: flex;
+  font-weight: bold;
+  align-items: center;
+  gap: .5rem;
+}
+
+.badge img {
+  padding: 1rem;
 }
 
 .row {
@@ -163,4 +170,13 @@ body {
 
 .row:nth-child(4) .badge p {
   color: var(--cobalt-blue);
+}
+
+.row p:nth-child(2) {
+  color: gray;
+}
+
+.row .bold{
+  font-weight: bold;
+  color: black;
 }
