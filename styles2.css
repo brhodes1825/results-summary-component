@@ -89,6 +89,7 @@ div .round {
 }
 
 .round .bold {
+  font-size: 2rem;
   font-weight: 800;
   color: var(--white);
 }
