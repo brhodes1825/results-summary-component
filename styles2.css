@@ -121,6 +121,9 @@ body {
   gap: .0.8rem;
 }
 
+img {
+  display: inline-block;
+}
 
 
 
