@@ -168,7 +168,7 @@ body {
   color: var(--cobalt-blue);
 }
 
-.row p:nth-of-type(2) {
+.numeric-value p {
   color: gray;
 }
 
