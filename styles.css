@@ -92,7 +92,7 @@ body {
   flex-direction: column;
 }
 
-row {
+.row {
   display: flex;
 }
 
