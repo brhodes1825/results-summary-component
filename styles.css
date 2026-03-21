@@ -85,6 +85,9 @@ body {
   height: 30rem;
   z-index: 2;
   padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
   }
 
 .table {
