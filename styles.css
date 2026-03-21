@@ -130,10 +130,10 @@ body {
   color: var(--white);
 }
 
+/*
 .red-bg {
-  display: inline;
   background-color: var(--light-red);
-}
+} */
 
 .red-text {
   color: var(--light-red);
