@@ -121,7 +121,7 @@ body {
   gap: .0.8rem;
 }
 
-img {
+.badge {
   display: inline-block;
 }
 
