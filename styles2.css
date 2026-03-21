@@ -78,3 +78,17 @@ div .round {
   justify-content: center;
   flex-direction: column;
 }
+
+.round .result {
+  font-size: 4rem;
+  font-weight: 800;
+}
+
+.round p:nth-of-type(2) {
+  color: var(--light-lavender);
+}
+
+
+
+
+
