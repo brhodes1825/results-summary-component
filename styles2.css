@@ -172,7 +172,7 @@ body {
   color: gray;
 }
 
-.row .bold{
+.numeric-value .bold{
   font-weight: bold;
   color: black;
 }
