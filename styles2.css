@@ -125,5 +125,8 @@ img {
   display: inline-block;
 }
 
-
+.row {
+  display: flex;
+  justify-content: space-between;
+}
 
