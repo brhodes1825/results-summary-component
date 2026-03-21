@@ -128,10 +128,6 @@ body {
   gap: .5rem;
 }
 
-/* .badge img {
-  padding: 1rem;
-} */
-
 .row {
   display: flex;
   align-items: center;
@@ -141,7 +137,7 @@ body {
 }
 
 .row:nth-child(1) {
-  background-color: hsla(0, 100%, 67%,.2%);
+  background: hsla(0, 100%, 67%,.2%);
 }
 
 .row:nth-child(1) .badge p {
