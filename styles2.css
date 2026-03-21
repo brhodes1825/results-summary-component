@@ -52,7 +52,7 @@ body {
 }
 
 .card-results {
-  width: 45%;
+  width: 50%;
   border-radius: 2rem;
   background: linear-gradient(to bottom, hsl(252, 100%, 67%) 0%, hsl(241, 81%, 54%) 100%);
   display: flex;
