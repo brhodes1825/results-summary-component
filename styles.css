@@ -32,20 +32,20 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Hanken Grotesk";
 }
 
 html {
   font-size: 62.5%;
-  font-family: "Hanken Grotesk";
 }
 
 body {
   width: 100vw;
-  height: 100vh;
-  background-color: black;
+  min-height: 100vh;
+  background-color: var(--pale-blue);
   display: flex;
   justify-content: center;
-  margin: auto auto;
+  align-items: center;
 }
 
 .card-container {
@@ -69,13 +69,6 @@ body {
   padding: 2rem;
 }
 
-.card-lower {
-  height: 30rem;
-  z-index: 2;
-  padding: 2rem;
-  display: grid;
-  }
-
 .score-results-round {
   width: 16rem;
   height: 16rem;
@@ -86,6 +79,21 @@ body {
   align-items: center;
   justify-content: center; 
   margin: 1.5rem;
+}
+
+.card-lower {
+  height: 30rem;
+  z-index: 2;
+  padding: 2rem;
+  }
+
+.table {
+  display: flex;
+  flex-direction: column;
+}
+
+row {
+  display: flex;
 }
 
 .bold {
