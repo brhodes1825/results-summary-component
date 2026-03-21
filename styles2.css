@@ -127,6 +127,8 @@ img {
 
 .row {
   display: flex;
+  border-radius: 1rem;
+  align-items: center;
   justify-content: space-between;
 }
 
