@@ -59,8 +59,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
   gap: 1rem;
-  padding: .5rem;
+  padding: 1.5rem 2rem;
 }
 
 .card-results .title {
@@ -97,8 +98,8 @@ div .round {
 .round .info {
   padding: .5rem 1rem;
   color: var(--light-lavender);
-  text-align: center;
 }
+
 
 
 
