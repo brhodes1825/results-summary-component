@@ -66,9 +66,10 @@ body {
 
 .card-results .title {
   color: var(--light-lavender);
+  margin-bottom: 1rem;
 }
 
-div .round {
+.round {
   width: 10rem;
   height: 10rem;
   border-radius: 50%;
@@ -93,10 +94,11 @@ div .round {
   font-size: 2rem;
   font-weight: 800;
   color: var(--white);
+  margin-top: 1rem;
 }
 
 .round .info {
-  padding: .5rem 1rem;
+  width: 12.5rem;
   color: var(--light-lavender);
 }
 
