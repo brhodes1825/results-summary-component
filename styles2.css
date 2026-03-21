@@ -118,7 +118,7 @@ body {
 .rows {
   display: flex;
   flex-direction: column;
-  gap: .0.8rem;
+  gap: .8rem;
 }
 
 .badge {
