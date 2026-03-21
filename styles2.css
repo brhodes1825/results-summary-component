@@ -93,6 +93,12 @@ div .round {
   color: var(--white);
 }
 
+.round .info {
+  padding: .5rem 1rem;
+  color: var(--light-lavender);
+  text-align: center;
+}
+
 
 
 
